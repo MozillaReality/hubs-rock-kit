@@ -6,8 +6,8 @@
   "author": "Robert Long <robert@robertlong.me>",
   "license": "MIT",
   "scripts": {
-    "deploy-prod": "node ./scripts/deploy.js ./glTF/RocksKit_v1 assets.reticulum-prod-b99b35f30242f894 kits/rock/",
-    "deploy-dev": "node ./scripts/deploy.js ./glTF/RocksKit_v1 assets.reticulum-dev-7f8d39c45878ee2e kits/rock/"
+    "deploy-prod": "node ./scripts/deploy.js ./glTF/RocksKit_v2 assets.reticulum-prod-b99b35f30242f894 kits/rock/",
+    "deploy-dev": "node ./scripts/deploy.js ./glTF/RocksKit_v2 assets.reticulum-dev-7f8d39c45878ee2e kits/rock/"
   },
   "devDependencies": {
     "aws-sdk": "^2.556.0",
